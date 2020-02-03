@@ -4,4 +4,4 @@ Description: When you hit the generator button you will be prompted to choose ce
 
 link:  https://kenanbeast.github.io/Password-Generator/.
 
-![Alt text](./assets/"Annotation 2020-02-01 164101.png")
+![Alt text](./Assets/"Annotation 2020-02-01 164101.png")
